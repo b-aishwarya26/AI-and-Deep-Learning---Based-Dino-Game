@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pandas
+tensorflow
+pyautogui
+scikit-learn
+tensorflow-hub
+ultralytics
